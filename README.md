@@ -45,3 +45,8 @@ FPS Plus Input
 Modding Plus Input
 
 Psych Engine Input
+
+# Leaked Week 8 Songs
+
+Before, Week 8 songs were leaked in a work in progress state, so its here on Deco Engine, only if you
+turn off "No Spoilers Mode"
