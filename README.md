@@ -30,6 +30,10 @@ Instead of OGG in order to make a song function, its now MP3 for easier modding!
 
 Menus from the Mic'd Up Engine!
 
+# More Advanced Tutorial
+
+Multiple Tutorials dedicated to teaching the player on how to play.
+
 # Multiple Input Systems:
 
 Ludum Dare Input
