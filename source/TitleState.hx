@@ -636,9 +636,7 @@ class TitleState extends MusicBeatState
 				// credTextShit.visible = true;
 				case 4:
 					#if PSYCH_WATERMARKS
-					addMoreText('Shadow Mario', 15);
-					addMoreText('RiverOaken', 15);
-					addMoreText('shubs', 15);
+					addMoreText('DecoTheEpicGuy', 15);
 					#else
 					addMoreText('present');
 					#end
@@ -651,7 +649,7 @@ class TitleState extends MusicBeatState
 				// credTextShit.screenCenter();
 				case 6:
 					#if PSYCH_WATERMARKS
-					createCoolText(['Not associated', 'with'], -40);
+					createCoolText(['Shout out', 'to our boy'], -40);
 					#else
 					createCoolText(['In association', 'with'], -40);
 					#end
